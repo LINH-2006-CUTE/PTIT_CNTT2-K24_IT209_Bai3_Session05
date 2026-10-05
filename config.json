@@ -1,5 +1,5 @@
 ﻿{
   "port": 9000,
-  "debug": "production",
+  "debug": true,
   "env": "production"
 }
